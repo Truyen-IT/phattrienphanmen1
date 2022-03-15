@@ -1,5 +1,6 @@
 #include<stdio.h>
 int main(){
-	printf("helo"); 
+	printf("\n");
+	printf("\nhelo"); 
 	
 }
